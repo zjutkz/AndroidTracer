@@ -1,0 +1,28 @@
+apply plugin: 'groovy'
+apply plugin: 'maven'
+apply plugin: 'idea'
+
+dependencies {
+    compile gradleApi()
+    compile localGroovy()
+    compile 'com.android.tools.build:gradle:2.1.0'
+    compile 'org.aspectj:aspectjtools:1.8.6'
+    compile 'org.aspectj:aspectjrt:1.8.6'
+    compile 'org.javassist:javassist:3.20.0-GA'
+    compile 'com.squareup:javapoet:1.7.0'
+}
+
+repositories {
+    mavenCentral()
+}
+
+group='com.zjutkz.tracer'
+version='0.0.1'
+
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            repository(url: uri('../repo'))
+        }
+    }
+}
