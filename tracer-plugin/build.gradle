@@ -30,3 +30,4 @@ dependencies {
     compile 'com.squareup:javapoet:1.7.0'
 }
 
+apply from: '../tracer-plugin/bintray.gradle'

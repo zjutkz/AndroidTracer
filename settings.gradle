@@ -1,1 +1,1 @@
-include ':sample', ':buildsrc', ':tracer'
+include ':sample', ':buildsrc', ':tracer', ':tracer-plugin'
