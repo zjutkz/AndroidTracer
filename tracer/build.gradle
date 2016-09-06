@@ -65,4 +65,3 @@ android.libraryVariants.all { variant ->
     }
 }
 
-apply from: '../tracer/bintray.gradle'
