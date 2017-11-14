@@ -18,7 +18,7 @@ buildscript {
       mavenLocal()
     }
 
-    classpath 'com.zjutkz.tracer-plugin'
+    classpath 'com.zjutkz.tracer-plugin:1.0.2'
   }
 }
 ```
