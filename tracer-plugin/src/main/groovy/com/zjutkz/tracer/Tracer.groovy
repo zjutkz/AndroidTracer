@@ -34,7 +34,6 @@ public class Tracer implements Plugin<Project> {
         // add dependencies
         project.dependencies {
             debugCompile 'org.aspectj:aspectjrt:1.8.6'
-            debugCompile 'com.zjutkz:tracer:1.0.0'
         }
 
         //get extension

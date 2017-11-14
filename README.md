@@ -8,6 +8,7 @@ This plugin will output the Android methods and gradle tasks execution time in l
 
 #Download
 
+
 ```groovy
 buildscript {
   dependencies {
@@ -22,8 +23,6 @@ buildscript {
   }
 }
 ```
-
-
 
 
 
@@ -405,3 +404,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
