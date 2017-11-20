@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kangzhe/AndroidTracer/sample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/kangzhe/AndroidTracer/sample/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_d6065b1cd9c7529bb47f8b5e8c85ebc76a7f517a.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/kangzhe/AndroidTracer/sample/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_4c172290acbb576b9d2b2f4c5ba566c99614268f.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.6/a7db7ea5f7bb18a1cbd9f24edd0e666504800be/aspectjrt-1.8.6.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0a7db7ea5f7bb18a1cbd9f24edd0e666504800be">
+        <dex dex="/Users/kangzhe/AndroidTracer/sample/build/intermediates/pre-dexed/debug/aspectjrt-1.8.6_395d639206d2640badc638c985f5b60d7b1fabfc.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/AndroidTracer/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/kangzhe/AndroidTracer/sample/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_e80137312af01be240eb90f7d48bd87fa2beedfd.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/AndroidTracer/sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/kangzhe/AndroidTracer/sample/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_2a38f12ab0dc095e584ec9923db077ce9c1e2f4d.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/AndroidTracer/sample/build/intermediates/exploded-aar/zjutkz/tracer/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="484d099d849aa35d83cda60fcb1fceeec33329aa">
+        <dex dex="/Users/kangzhe/AndroidTracer/sample/build/intermediates/pre-dexed/debug/zjutkz-tracer-1.0.0_eda1a26b2d92fe44bc6bb35f282002444c44b054.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/AndroidTracer/sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/kangzhe/AndroidTracer/sample/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_0005c2f4cfd61a40621c7640e49289174707dc2d.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/AndroidTracer/sample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/kangzhe/AndroidTracer/sample/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_00d1261dc48557b1d2951de1930eb769aea084c6.jar" />
+    </item>
+
+</items>
